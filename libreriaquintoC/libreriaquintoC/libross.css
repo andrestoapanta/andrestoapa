@@ -1,0 +1,23 @@
+.navbar{
+	position: fixed;
+	overflow: hidden;
+	width: 100%;
+	z-index: 1;
+}
+.navbar-nav{
+	margin-left: auto;
+}
+nav a {
+	text-transform: uppercase;
+	font-size: 14px;
+	letter-spacing: 1px;
+}
+.title{
+	background: rgba(0, 0, 0,.5);
+	border-radius: 10px;
+	color: white;
+}
+img{
+	width: 10px;
+	height: 250px;
+}
